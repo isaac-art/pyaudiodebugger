@@ -2,7 +2,7 @@
 plays samples when function called/completes
 
 # REQUIREMENTS
-simpleaudio
+synthesizer (which requires portaudio)
 
 # USE
 ```
